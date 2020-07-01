@@ -29,6 +29,7 @@ p{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 .line-button{
     text-decoration: none;
